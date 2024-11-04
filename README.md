@@ -1,7 +1,7 @@
 ## 안녕하세요, 이창희 입니다. 👋
 <a href="mailto:leechanghee.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ies041196@gmail.com"/></a> <br>
 
-###### 문제를 작은 단위부터 정의하고 차근 차근 해결하는 것을 선호합니다. <br>
+###### 주어진 문제의 작은 단위부터 정의하고 차근 차근 해결하는 것을 선호합니다. <br>
 ###### 또한 다양한 의견을 존중하고 수용하여 최선의 결과를 만드는 것을 추구합니다. <br><br>
 
 ## Projects
