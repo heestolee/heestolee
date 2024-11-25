@@ -6,10 +6,10 @@
 
 ## Projects
 - ### 2024
-  #### [NotionDrop](https://github.com/heestolee/notiondrop?tab=readme-ov-file)
+  #### [Scrabbit](https://github.com/heestolee/notiondrop?tab=readme-ov-file)
   > ##### 1인 프로젝트 (총 3주, 1주 기획 / 2주 개발)
   >
-  > ###### [Notion](https://www.notion.so/ko)의 페이지 전체 또는 부분을 배포하여 사용자가 원하는 만큼의 정보를 정적 웹 페이지로 전달하는 웹 어플리케이션입니다.
+  > ###### 마치 스크랩북처럼 여러 페이지에서 취사선택한 정보를 정적 웹 페이지로 배포하는 웹 어플리케이션입니다.
   
   <br>
   
