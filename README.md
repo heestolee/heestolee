@@ -13,7 +13,7 @@
   > 사용자가 입력한 url의 스냅샷을 생성하여 렌더링하고, 렌더링된 요소 중 사용자가 선택한 요소로 배포 구성을 만들고<br> 커스텀 도메인을 부여하여 웹 페이지로 배포가 가능합니다.<br>
   > 단일 페이지에서도 사용이 가능하고, 다른 url의 새로운 페이지를 렌더링해서 여러 페이지의 요소를 하나의 배포 구성으로 만들수도 있습니다.
   >
-  > [배포 페이지 바로가기](http://scrabbit.eba-a7ppf4xy.ap-northeast-2.elasticbeanstalk.com/)
+  > [배포 페이지 바로가기](https://www.scrabbit.site/)
   <br>
   
   #### [Wasmble](https://github.com/WA-SUP/WASMble/tree/feature/readme-1)
