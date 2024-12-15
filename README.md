@@ -34,4 +34,4 @@
   > [Daily Algorithm Note](https://repeated-lycra-c2c.notion.site/Algorithm-Collection-1179d270074a80259127c563712f53af?pvs=4)
   <br>
   <a href="mailto:leechanghee.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ies041196@gmail.com"/></a>
-  <a href="mailto:leechanghee.dev@gmail.com"><img src="https://img.shields.io/badge/notion-black?style=flat-square&logo=notion&logoColor=white&link=ies041196@gmail.com"/></a> <br>
+  <a href="https://repeated-lycra-c2c.notion.site/12e9d270074a80ebbaf9c8661fd32b46"><img src="https://img.shields.io/badge/notion-black?style=flat-square&logo=notion&logoColor=white&link=ies041196@gmail.com"/></a> <br>
