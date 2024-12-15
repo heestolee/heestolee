@@ -27,7 +27,7 @@
   > - 기술 스택 : JavaScript, React, Next.js, Tailwind CSS, postgreSQL, Docker, AWS Elastic Beanstalk
   > 
 
-  #### Daily Algorithm Challange
+## Daily Algorithm Challange
   > 매일 알고리즘을 1개씩 풀고 정리합니다. <br>
   > 풀이 후 회고하며 알고리즘의 시간복잡도, 공간복잡도를 개선하려 노력하고 있습니다. <br>
   >
