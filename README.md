@@ -9,7 +9,7 @@
 
 ## Projects
 - ### 2024
-  #### Scrabbit [[🔗깃헙저장소]](https://github.com/heestolee/scrabbit)
+  #### Scrabbit [[🔗깃헙저장소]](https://github.com/heestolee/scrabbit) | [[🔗배포주소]](https://www.scrabbit.site/)
   > ##### 개인 프로젝트 (총 3주, 1주 기획 / 2주 핵심 기능 개발) 
   >
   > - 스크랩북처럼 여러 페이지에서 취사선택한 정보를 하나의 정적 웹 페이지로 배포하는 웹 어플리케이션.<br>
@@ -19,7 +19,7 @@
   > - 기술 스택 : TypeScript, React, Next.js, Chakra UI, Vercel, Docker
   >
   
-  #### Wasmble [[🔗깃헙저장소]](https://github.com/WA-SUP/WASMble)
+  #### Wasmble [[🔗깃헙저장소]](https://github.com/WA-SUP/WASMble) | [[🔗배포주소]](https://www.wasmble.site/)
   > ##### 3인 팀 프로젝트 (총 3주, 1주 기획 / 2주 핵심 기능 개발)
   >
   > - 자바스크립트 코드를 웹 어셈블리 모듈로 변환하고 각각의 처리 속도를 시각화하여 비교 결과를 제공하는 웹 어플리케이션.<br>
