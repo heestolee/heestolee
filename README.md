@@ -14,9 +14,9 @@
   >
   > - 스크랩북처럼 여러 페이지에서 취사선택한 정보를 하나의 정적 웹 페이지로 배포하는 웹 어플리케이션.<br>
   > - 사용자가 입력한 url의 스냅샷을 렌더링하고, 렌더링된 요소 중 사용자가 선택한 요소로 웹 페이지를 구성할 수 있습니다.<br>
-  > - 구성한 페이지는 고유의 서브도메인을 가진 웹페이지로 배포할 수 있고, 링크로 공유할 수 있습니다.
-  > - 단일 페이지에서도 사용이 가능하고, 여러 페이지의 요소를 하나의 배포 구성으로 만들수도 있습니다.
-  > - 기술 스택 : TypeScript, React, Next.js, Chakra UI, Vercel, Docker
+  > - 구성한 페이지는 고유의 서브도메인을 가진 웹페이지로 생성하여 배포할 수 있고, 링크로 공유할 수 있습니다.
+  > - 단일 페이지에서도 사용이 가능하고, 여러 페이지의 컨텐츠를 하나의 배포 구성으로 만들수도 있습니다.
+  > - 기술 스택 : TypeScript, React 19, Next.js 15, Zustand, TanStack Query v5, Chakra UI, Vercel, Docker, AWS Elastic Beanstalk
   >
   
   #### Wasmble [[🔗깃헙저장소]](https://github.com/WA-SUP/WASMble) | [[🔗배포주소]](https://www.wasmble.site/)
@@ -24,7 +24,7 @@
   >
   > - 자바스크립트 코드를 웹 어셈블리 모듈로 변환하고 각각의 처리 속도를 시각화하여 비교 결과를 제공하는 웹 어플리케이션.<br>
   > - 전형적인 웹 어셈블리 모듈 생성 방식인 C, C#, Rust를 사용하지 않고 웹 어셈블리 모듈을 생성할 수 있으며,<br>비교 결과 페이지는 링크로 공유가 가능하여 사용자는 비교 결과를 다른 사람에게 공유할 수 있습니다.<br>
-  > - 기술 스택 : JavaScript, React, Next.js, Tailwind CSS, postgreSQL, Docker, AWS Elastic Beanstalk
+  > - 기술 스택 : TypeScript, React, Next.js, Tailwind CSS, postgreSQL, Docker, AWS Elastic Beanstalk
   > 
 
 ## Daily Algorithm Challange
