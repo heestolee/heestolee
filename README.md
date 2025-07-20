@@ -5,7 +5,9 @@
 내가 작성한 코드 한 줄 한 줄이 어떤 과정을 거쳐 동작되는지에 관심이 많고, <br>
 항상 이유를 고민하며 문제를 작은 단위부터 정의하고 차근 차근 해결해가는 것이 개발의 매력이라 생각합니다. <br><br>
 또한 문제 해결 과정이나 지식을 나누는 것에 서슴없는 개발자 문화에 매료되어 <br>
-저 또한 제가 얻은 지식을 누군가에게 잘 전달할 수 있는 개발자가 되고자 매일 노력을 쌓아가고 있습니다.<br><br>
+저 또한 제가 얻은 지식을 누군가에게 잘 전달할 수 있는 개발자가 되고자 매일 노력을 쌓아가고 있습니다.
+
+<br><br>
 
 ## Projects
 - ### 2024
@@ -25,7 +27,29 @@
   > - 자바스크립트 코드를 웹 어셈블리 모듈로 변환하고 각각의 처리 속도를 시각화하여 비교 결과를 제공하는 웹 어플리케이션.<br>
   > - 전형적인 웹 어셈블리 모듈 생성 방식인 C, C#, Rust를 사용하지 않고 웹 어셈블리 모듈을 생성할 수 있으며,<br>비교 결과 페이지는 링크로 공유가 가능하여 사용자는 비교 결과를 다른 사람에게 공유할 수 있습니다.<br>
   > - 기술 스택 : TypeScript, React, Next.js, Tailwind CSS, postgreSQL, Docker, AWS Elastic Beanstalk
-  > 
+
+<br><br>
+  
+## 오픈 소스 기여
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/mdn/translated-content/pull/27250">
+        <img src="https://img.shields.io/badge/MDN-000000?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="MDN Badge" style="width: 120px;">
+      </a>
+    </td>
+  </tr>
+  <tr>
+  <td style="border: none;">
+      <a href="https://github.com/mdn/translated-content/pull/27250" style="text-decoration: none; color: #7E7E7E; font-size: 13px; font-weight: bold;">
+        Switch문 번역
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br><br>
 
 ## Daily Algorithm Challange
   > 매일 알고리즘을 1개씩 풀고 정리합니다. <br>
