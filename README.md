@@ -49,9 +49,8 @@
 
 <br><br>
 
-## Daily Algorithm Challange
-  > 매일 알고리즘을 1개씩 풀고 정리합니다. <br>
-  > 풀이 후 회고하며 알고리즘의 시간복잡도, 공간복잡도를 개선하려 노력하고 있습니다. <br>
+## Personal Algorithm Challange
+  > 알고리즘을 풀고 회고하며 알고리즘의 시간복잡도, 공간복잡도를 개선하려 합니다. <br>
   >
   > [Daily Algorithm Note](https://repeated-lycra-c2c.notion.site/Algorithm-Collection-1179d270074a80259127c563712f53af?pvs=4)
   <br>
