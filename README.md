@@ -24,7 +24,7 @@
   >
   > - 자바스크립트 코드를 웹 어셈블리 모듈로 변환하고 각각의 처리 속도를 시각화하여 비교 결과를 제공하는 웹 어플리케이션.<br>
   > - 전형적인 웹 어셈블리 모듈 생성 방식인 C, C#, Rust를 사용하지 않고 웹 어셈블리 모듈을 생성할 수 있으며,<br>비교 결과 페이지는 링크로 공유가 가능하여 사용자는 비교 결과를 다른 사람에게 공유할 수 있습니다.<br>
-  > - 기술 스택 : TypeScript, React, Next.js, Tailwind CSS, postgreSQL, Docker, AWS Elastic Beanstalk
+  > - 기술 스택 : TypeScript, React, Next.js, TailwindCSS, postgreSQL, Docker, AWS Elastic Beanstalk
 
 <br><br>
   
